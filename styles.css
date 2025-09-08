@@ -156,6 +156,12 @@ p.winner{
 }
 
 
+.trendig-tag h4, .trending-tag h5, .trending-tag h6{
+    color: #8b9dc3 ;
+    font-family: Arial ;
+}
+
+
 #app {
     max-width: 600px;
     margin: 0 auto;
