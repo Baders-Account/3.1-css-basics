@@ -114,6 +114,24 @@ span{
 }
 
 
+p{
+    color: #333 ;
+}
+
+.winner{
+    
+    color: #ff6b6b ;
+}
+
+#specificity-test{
+    color: #4ecdc4 ;
+}
+
+p.winner{
+    color: #95a5a6 ;
+}
+
+
 #app {
     max-width: 600px;
     margin: 0 auto;
