@@ -145,6 +145,17 @@ p.winner{
 }
 
 
+.send-button:hover{
+    background-color: #3b5998 ;
+    color: white ;
+}
+
+.chat-link:hover{
+    color: #1877f2 ;
+    text-decoration: none ;
+}
+
+
 #app {
     max-width: 600px;
     margin: 0 auto;
