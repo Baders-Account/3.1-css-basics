@@ -1,7 +1,7 @@
 /* SocialBook CSS Styling Practice - Starter File */
 /* Complete the TODOs below to style your social media app */
 
-/* TODO 1: Basic Element Selectors */
+/* TODO 1: Basic Element Selectors */   /*Done*/
 /* Style all paragraphs with color: #333 and font-size: 16px */
 
 
@@ -80,6 +80,10 @@ p{
 
     color: #333;
     font-size: 16px; 
+}
+span{
+    color: #888;
+    font-size: 14px; 
 }
 
 
