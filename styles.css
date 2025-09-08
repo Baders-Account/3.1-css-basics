@@ -135,6 +135,10 @@ p.winner{
     color: #e67e22 !important;
 }
 
+.chat-container p{
+    color: #2c3e50 ;
+}
+
 
 #app {
     max-width: 600px;
