@@ -139,6 +139,11 @@ p.winner{
     color: #2c3e50 ;
 }
 
+.chat-container .message-time{
+    color: #7f8c8d ;
+    font-size: 12px ;
+}
+
 
 #app {
     max-width: 600px;
