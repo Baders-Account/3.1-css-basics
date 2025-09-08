@@ -161,6 +161,10 @@ p.winner{
     font-family: Arial ;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 
 #app {
     max-width: 600px;
