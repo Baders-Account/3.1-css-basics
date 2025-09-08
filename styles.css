@@ -131,6 +131,10 @@ p.winner{
     color: #95a5a6 ;
 }
 
+.important-test{
+    color: #e67e22 !important;
+}
+
 
 #app {
     max-width: 600px;
