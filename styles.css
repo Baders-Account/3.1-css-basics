@@ -88,6 +88,26 @@ span{
 
 
 
+.username{
+   color: #1877f2 ;
+    font-weight: bold; 
+}
+
+.blue-text{
+    color: #4267B2 ;
+}
+
+.red-text{
+    color: #e74c3c ;
+}
+
+.highlight{
+    background-color: #f0f2f5 ;
+    padding: 15px ;
+
+}
+
+
 #app {
     max-width: 600px;
     margin: 0 auto;
